@@ -1,4 +1,4 @@
-name: emsanet2024
+name: emsanet2024_1
 channels:
   - nvidia
   - pytorch
